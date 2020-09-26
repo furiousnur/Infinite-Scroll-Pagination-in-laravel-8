@@ -19,7 +19,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('test1', [TestController::class,'test'])->name('test1');
+Route::get('test1', [TestController::class,'AddStudent'])->name('test1');
 Route::resource('test', TestController::class);
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e049fe0b-a97e-4848-bb36-57a36aa60793" name="Default Changelist" comment="" />
+    <list default="true" id="e049fe0b-a97e-4848-bb36-57a36aa60793" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/post.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -134,6 +142,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hmSr8H2pda15lhiMuAg4Lq5jwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,7 +150,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -168,7 +179,11 @@
       <updated>1600446007463</updated>
       <workItem from="1600446009652" duration="6330000" />
       <workItem from="1600614990167" duration="738000" />
-      <workItem from="1600708453266" duration="5653000" />
+      <workItem from="1600708453266" duration="6353000" />
+      <workItem from="1600799499926" duration="67000" />
+      <workItem from="1600800274278" duration="642000" />
+      <workItem from="1600960301913" duration="868000" />
+      <workItem from="1601143932060" duration="3409000" />
     </task>
     <servers />
   </component>
@@ -180,6 +195,10 @@
       <screen x="0" y="27" width="1848" height="1053" />
     </state>
     <state x="632" y="345" width="574" height="423" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1848.1053@0.27.1848.1053" timestamp="1600711923306" />
+    <state x="707" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600962685281">
+      <screen x="0" y="27" width="1848" height="1053" />
+    </state>
+    <state x="707" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1848.1053@0.27.1848.1053" timestamp="1600962685281" />
     <state x="755" y="157" width="1022" height="737" key="SettingsEditor" timestamp="1600452703866">
       <screen x="0" y="27" width="1848" height="1053" />
     </state>
