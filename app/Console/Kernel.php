@@ -2,6 +2,8 @@
 
 namespace App\Console;
 
+use App\Console\Commands\Posts;
+use App\Console\Commands\Users;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
@@ -13,7 +15,8 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        //
+        Users::class,
+        Posts::class
     ];
 
     /**
